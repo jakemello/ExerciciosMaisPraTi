@@ -71,13 +71,15 @@ Este repositório contém a solução de 15 exercícios de lógica de programaç
 
 ## 📥 Como clonar e executar o repositório 🛠️
 
+1. **Encontre o repositório que você deseja clonar no GitHub. Por exemplo, vamos supor que o repositório seja https://github.com/usuario-do-outro/repo.**
+
 1. **Clone o repositório** no seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/usuario-do-outro/repo.git
 ##
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd seu-repositorio
+   cd repo
 ##
 3. **Instale o Node.js (caso ainda não tenha):**
 
